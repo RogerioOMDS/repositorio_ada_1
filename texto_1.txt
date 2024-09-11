@@ -1,0 +1,5 @@
+1. Baixamos o git 
+2. configuramos o git local
+    git config ...
+3. Criou um repositório lá no GitHub (repositorio_ada_1)
+4. Na máquina local, fizemos um `git clone link_do_repositório_https`
