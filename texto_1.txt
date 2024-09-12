@@ -3,3 +3,6 @@
     git config ...
 3. Criou um repositório lá no GitHub (repositorio_ada_1)
 4. Na máquina local, fizemos um `git clone link_do_repositório_https`
+5. git add . (para demarcar o acompanhamento do arquivo)
+6. git commit -m "mensagem" (para ter o versionamento do código no git local)
+7. git push (para subir as alterações para o GitHub)
